@@ -38,6 +38,6 @@ This project provides valuable insights into how different factors affect IMDB r
 ## Resources
 **Raw Dataset:** [IMDB Movie Dataset](https://github.com/darshanabk/IMDBMovieAnalysis/blob/main/RawData/IMDB_Movies.csv)
 **Excel Workbook:** [IMDB Movie Excel Analysis](https://github.com/darshanabk/IMDBMovieAnalysis/blob/main/DataCleaningAndAnalysis/DataCleaning%20and%20Analysis%20-%20IMDB_Movies.xlsx)
-**Cleaned Dataset:** []()
+**Cleaned Dataset:** [IMDB Movie Cleaned Dataset](https://github.com/darshanabk/IMDBMovieAnalysis/blob/main/DataCleaningAndAnalysis/IMDBCleanedDataset.xlsx)
 
 
