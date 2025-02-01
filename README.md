@@ -1,5 +1,7 @@
 # IMDB Movie Dataset Analysis | [Live Dashboard](https://public.tableau.com/app/profile/darshana.b8538/viz/IMDBMovieAnalysis_17383721644000/IMDBMovieAnalysis)
-
+<p align="left">
+  <img src="https://github.com/darshanabk/IMDBMovieAnalysis/blob/main/IMDB.jfif" width="800" title="hover text">
+</p>
 ## Project Overview
 
 This project explores trends and insights from the IMDB movie dataset, analyzing factors like genres, duration, languages, directors, and budgets to understand their impact on IMDB ratings. Using **Microsoft Excel** and **Tableau**, we create interactive visualizations to identify key patterns and trends in the film industry.
