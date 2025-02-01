@@ -1,6 +1,6 @@
 # IMDB Movie Dataset Analysis | [Live Dashboard](https://public.tableau.com/app/profile/darshana.b8538/viz/IMDBMovieAnalysis_17383721644000/IMDBMovieAnalysis)
 <p align="left">
-  <img src="https://github.com/darshanabk/IMDBMovieAnalysis/blob/main/IMDB.jfif" width="800" title="hover text">
+  <img src="https://github.com/darshanabk/IMDBMovieAnalysis/blob/main/download.png" width="800" title="hover text">
 </p>
 ## Project Overview
 
